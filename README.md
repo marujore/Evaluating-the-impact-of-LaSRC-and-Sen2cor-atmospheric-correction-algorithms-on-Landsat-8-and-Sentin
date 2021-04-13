@@ -6,7 +6,7 @@ Input images: Lansat-8/OLI and Sentinel-2/MSI. Source: http://earthexplorer.usgs
 
 Ground Truth Data: AERONET Stations: Alta Floresta, Cuiabá-Miranda, Manaus-EMBRAPA, Itajubá and Rio Branco. Source: https://aeronet.gsfc.nasa.gov/
 
-Authors: Rennan de Freitas Bezerra Marujo, José Guilherme Fronza and Anderson Soares
+Authors: Rennan de Freitas Bezerra Marujo (https://orcid.org/0000-0002-0082-9498), José Guilherme Fronza (https://orcid.org/0000-0002-0830-8101), Anderson Soares (https://orcid.org/0000-0001-6513-2192), Gilberto R. Queiroz (https://orcid.org/0000-0001-7534-0219) and Karine R. Ferreira (https://orcid.org/0000-0003-2656-5504)
 
 # Summary
 
