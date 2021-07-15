@@ -33,15 +33,15 @@ Authors: Rennan de Freitas Bezerra Marujo (https://orcid.org/0000-0002-0082-9498
 R. F. B. Marujo, J. G. Fronza, A. R. Soares, G. R. Queiroz, K. R. Ferreira, Evaluating the impact of LaSRC and Sen2cor atmospheric correction algorithms on Landsat-8/OLI and Sentinel-2/MSI data over AERONET Stations in Brazilian territory, ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences V-3-2021 (2021) 271–277.doi:10.5194/isprs-annals-v-3-2021-271-2021.URL https://doi.org/10.5194/isprs-annals-v-3-2021-271-2021
 ## Bibtex
 
-@article{Marujo2021,
-  doi = {10.5194/isprs-annals-v-3-2021-271-2021},
-  url = {https://doi.org/10.5194/isprs-annals-v-3-2021-271-2021},
-  year = {2021},
-  month = jun,
-  publisher = {Copernicus {GmbH}},
-  volume = {V-3-2021},
-  pages = {271--277},
-  author = {R. F. B. Marujo and J. G. Fronza and A. R. Soares and G. R. Queiroz and K. R. Ferreira},
-  title = {Evaluating the impact of LaSRC and Sen2cor atmospheric correction algorithms on Landsat-8/OLI and Sentinel-2/MSI data over AERONET Stations in Brazilian territory},
-  journal = {{ISPRS} Annals of the Photogrammetry,  Remote Sensing and Spatial Information Sciences}
-}
+    @article{Marujo2021,
+        author = {R. F. B. Marujo and J. G. Fronza and A. R. Soares and G. R. Queiroz and K. R. Ferreira},
+        title = {Evaluating the impact of LaSRC and Sen2cor atmospheric correction algorithms on Landsat-8/OLI and Sentinel-2/MSI data over AERONET Stations in Brazilian territory},
+        journal = {{ISPRS} Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences},
+        url = {https://doi.org/10.5194/isprs-annals-v-3-2021-271-2021},
+        year = {2021},
+        month = jun,
+        publisher = {Copernicus {GmbH}},
+        volume = {V-3-2021},
+        pages = {271--277},
+        doi = {10.5194/isprs-annals-v-3-2021-271-2021}
+    }
